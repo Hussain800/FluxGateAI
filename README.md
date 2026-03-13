@@ -1,3 +1,11 @@
+## Hackathon Project
+
+This project was originally developed during the **Bounty Challenge Hackathon** organized by the **Google Developer Student Club at the University of Birmingham Dubai** from **Jan 30 – Feb 1, 2026**.
+This repository is a fork of the original team repository to archive the project and document my participation in the hackathon.
+
+Original repository:
+https://github.com/HyperionBurn/nexus-command-center
+
 # FLUXGATE: NEXUS Command Center
 
 FLUXGATE is an advanced Traffic & Logistics Command Center designed to optimize school transportation and traffic flow. It provides real-time visualization, predictive analytics, and automated logic for managing student pickup/dropoff protocols, bus coordination, and congestion control.
